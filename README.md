@@ -1,11 +1,7 @@
 # java-collections-framework
 
 
-![](collections.jpg)
-
-
-<div class="foo">
-
+<div style="overflow-y: scroll; height:400px;">
 | Base Interface  | Collection name  | Backed by      | Duplicates      | Syncronized     | Thread safe     | Iterator type
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 |List|||
