@@ -1,6 +1,6 @@
 # java-collections-framework
 
-![](README.md)
+![](https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md)
 
 
 | Base Interface  | Collection name  | Backed by      | Duplicates      | Syncronized     | Thread safe     | Iterator type
