@@ -1,5 +1,8 @@
 # java-collections-framework
 
+![](README.md)
+
+
 | Base Interface  | Collection name  | Backed by      | Duplicates      | Syncronized     | Thread safe     | Iterator type
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 |List|||
