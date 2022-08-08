@@ -1,9 +1,7 @@
 # java-collections-framework
 
-![Look at the big table](https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md)
 
-
-<a href="https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md">This is a link</a>.
+<a href="https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md">Look at the table on big screen</a>.
 
 
 | Base Interface  | Collection name  | Backed by      | Duplicates      | Syncronized     | Thread safe     | Iterator type
