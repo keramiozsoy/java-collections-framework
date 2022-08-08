@@ -3,6 +3,9 @@
 
 ![](collections.jpg)
 
+
+<div class="foo">
+
 | Base Interface  | Collection name  | Backed by      | Duplicates      | Syncronized     | Thread safe     | Iterator type
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 |List|||
@@ -42,3 +45,4 @@
 || CopyOneWriteArraySet<E > | CopyOnWriteArrayList| No | yes | no | snapshot-style |
 || ConcurrentSkipListSet<E> | ConcurentSkipListMap| No | No  | no | weakly consistent |
 
+</div>
