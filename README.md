@@ -3,7 +3,7 @@
 ![Look at the big table](https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md)
 
 
-<a href=""https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md>This is a link</a>.
+<a href="https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md">This is a link</a>.
 
 
 | Base Interface  | Collection name  | Backed by      | Duplicates      | Syncronized     | Thread safe     | Iterator type
