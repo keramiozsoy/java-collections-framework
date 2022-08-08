@@ -1,7 +1,5 @@
 # java-collections-framework
 
-
-<div style="overflow-y: scroll; height:400px;">
 | Base Interface  | Collection name  | Backed by      | Duplicates      | Syncronized     | Thread safe     | Iterator type
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 |List|||
@@ -41,4 +39,3 @@
 || CopyOneWriteArraySet<E > | CopyOnWriteArrayList| No | yes | no | yes |snapshot-style |
 || ConcurrentSkipListSet<E> | ConcurentSkipListMap| No | No  | no | yes |weakly consistent |
 
-</div>
