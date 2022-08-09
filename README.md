@@ -1,5 +1,6 @@
 # java-collections-framework
 
+Click links on the table to look examples
 
 
 
