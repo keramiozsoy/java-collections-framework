@@ -43,6 +43,6 @@
 | -              | LinkedHashSet<E>                               | LinkedHashMap                       | No          | yes                                                                                  | no         | no        | fail-fast   |
 | -              | [ TreeSet < E > ](treeset/src/main/java)       | TreeMap                             | No          | Doesnt permit null keys if natural sorting is used or Comparator doesnt accept nulls | no         | no        | fail-fast   | 
 | -              | EnumSet<E>                                     | Bit array                           | No          | No                                                                                   | no         | no        | weakly consistent |
-| -              | CopyOneWriteArraySet<E >                       | CopyOnWriteArrayList                | No          | yes                                                                                  | no         | yes       | snapshot-style |
+| -              | CopyOnWriteArraySet<E >                       | CopyOnWriteArrayList                | No          | yes                                                                                  | no         | yes       | snapshot-style |
 | -              | ConcurrentSkipListSet<E>                       | ConcurentSkipListMap                | No          | No                                                                                   | no         | yes       | weakly consistent |
 
