@@ -2,8 +2,6 @@
 
 <h1>Click links on the table to look examples</h1>
 
-
-
 <a href="https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md">Look at the table on big screen</a>.
 
 
