@@ -1,7 +1,7 @@
 # java-collections-framework
 
 
-<a href="https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md">Click and look at the table on big screen</a>.
+<a href="https://github.com/keramiozsoy/java-collections-framework/blob/master/README.md">Click and look at the table on big screen</a>
 
 | Base Interface | Collection name                                | Backed by                           | Duplicates  | Nulls Allowed                                                                        | Syncronized|Thread safe|Iterator type|
 |----------------|------------------------------------------------|-------------------------------------|-------------|--------------------------------------------------------------------------------------|------------|-----------|-------------|
