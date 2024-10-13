@@ -1,6 +1,6 @@
 import java.util.concurrent.LinkedBlockingQueue;
 
-public class Example {
+public class Main {
     public static void main(String[] args) {
         LinkedBlockingQueue<Integer> queue = new LinkedBlockingQueue<>(10);
       
