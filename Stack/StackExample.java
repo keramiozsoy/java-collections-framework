@@ -2,7 +2,9 @@ import java.util.Stack;
 
 public class StackExample {
     public static void main(String[] args) {
-        // Create a Stack to hold Integer values
+        
+        // Last In First Out (LIFO) principle
+        
         Stack<Integer> stack = new Stack<>();
 
         // Push elements onto the stack
