@@ -2,6 +2,7 @@ import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 public class CopyOnWriteArrayListExample {
+    // Concurrent alternative of ArrayList
     // If the list is being modified by multiple threads (or requires modifications during iteration),
     // you can use a CopyOnWriteArrayList. This class is designed to handle concurrent modifications
     // without throwing ConcurrentModificationException because it creates a copy of the list on each modification.
